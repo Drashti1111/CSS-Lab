@@ -29,3 +29,13 @@ body{
     background-color: rgb(219,243,243);
 }
 
+section div h1{
+    text-align: center;
+    padding-top: 200px;
+    color: #085a5a;
+}
+
+section div p{
+    text-align: center;
+    padding-bottom: 200px;
+}
