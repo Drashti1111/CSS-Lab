@@ -17,11 +17,21 @@ main{
 
 h5{
     color: rgb(43, 121, 120) ;
+    padding-top: 150px;
+}
+
+p{
+    padding-top: 100px;
+}
+
+main div p{
+    padding-top: 20px;
+    padding-bottom: 120px;
 }
 
 footer{
     background-color: #085a5a;
     color: #bdd3d3;
-    padding: 5px 0;
+    padding: 3px 0;
     text-align: center;
 }
