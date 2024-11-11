@@ -6,6 +6,14 @@ header{
     padding: 20px 0;
     text-align: center;
 }
+
 body{
     background-color: rgb(219,243,243);
+}
+
+footer{
+    background-color: #085a5a;
+    color: #bdd3d3;
+    padding: 5px 0;
+    text-align: center;
 }
