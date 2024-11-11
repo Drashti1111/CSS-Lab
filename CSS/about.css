@@ -11,6 +11,14 @@ body{
     background-color: rgb(219,243,243);
 }
 
+main{
+    text-align: center;
+}
+
+h5{
+    color: rgb(43, 121, 120) ;
+}
+
 footer{
     background-color: #085a5a;
     color: #bdd3d3;
