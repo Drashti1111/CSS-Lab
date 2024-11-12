@@ -1,0 +1,45 @@
+header{
+    font-weight: 200;
+    font-style: normal ;
+    background-color: #085a5a;
+    color: #bdd3d3;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav ul{
+    display: inline-flex;
+    list-style: none;
+    padding-left: 0;
+}
+
+nav a{
+    border-radius: 3px;
+    color: #bdd3d3;
+    padding: 30px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: rgb(133,181,187);
+    color: rgb(225,234,235);
+}
+
+body{
+    background-color: rgb(219,243,243);
+}
+
+main h1{
+    text-align: center;
+    color: #085a5a;
+}
+main{
+    padding-bottom: 200px;
+}
+
+footer{
+    background-color: #085a5a;
+    color: #bdd3d3;
+    padding: 5px 0;
+    text-align: center;
+}
