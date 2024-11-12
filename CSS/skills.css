@@ -1,3 +1,5 @@
+/*Header CSS*/
+
 header{
     font-weight: 200;
     font-style: normal ;
@@ -25,6 +27,8 @@ nav a:hover{
     color: rgb(225,234,235);
 }
 
+/*Body CSS*/
+
 body{
     background-color: rgb(219,243,243);
 }
@@ -36,6 +40,8 @@ main h1{
 main{
     padding-bottom: 200px;
 }
+
+/*Footer CSS*/
 
 footer{
 
