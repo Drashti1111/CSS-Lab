@@ -28,3 +28,19 @@ nav a:hover{
 body{
     background-color: rgb(219,243,243);
 }
+
+main h1{
+    text-align: center;
+    color: #085a5a;
+}
+main{
+    padding-bottom: 200px;
+}
+
+footer{
+
+    background-color: #085a5a;
+    color: #bdd3d3;
+    padding: 5px 0;
+    text-align: center;
+}
