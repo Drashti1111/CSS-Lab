@@ -7,6 +7,28 @@ header{
     text-align: center;
 }
 
+nav ul{
+    display: inline-flex;
+    list-style: none;
+    padding-left: 0;
+}
+
+nav a{
+    border-radius: 3px;
+    color: #bdd3d3;
+    padding: 30px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: rgb(133,181,187);
+    color: rgb(225,234,235);
+}
+
+h1{
+    text-align: center;
+    color: #085a5a;
+}
 body{
     background-color: rgb(219,243,243);
 }
