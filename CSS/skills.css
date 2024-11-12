@@ -41,6 +41,23 @@ main{
     padding-bottom: 200px;
 }
 
+/*Image CSS*/
+
+img{
+    max-width: 100% ;
+}
+
+figure{
+    border-radius: 20px;
+    border: double #085a5a;
+    padding: 15px;
+}
+
+figure figcaption{
+    font-size: 70%;
+    text-align: right;
+}
+
 /*Footer CSS*/
 
 footer{
