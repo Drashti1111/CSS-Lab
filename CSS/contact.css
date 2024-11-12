@@ -49,3 +49,11 @@ footer{
     padding: 5px 0;
     text-align: center;
 }
+
+/* Media query */
+
+@media (width <= 800px){
+    .container{
+        flex-direction: column;
+    }
+}
